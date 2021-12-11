@@ -1,5 +1,5 @@
 # Hi!
-Welcome on my Github page.
+Welcome on my Github profile.
 
 # Who am I?
 My name is Maciej. Currently, I am a 3rd year CS student at [the University of Warsaw](https://www.mimuw.edu.pl/en).

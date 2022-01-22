@@ -13,5 +13,5 @@ I like cute animals and coding.
 
 ![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=macher259&count_private=true&include_all_commits=true&theme=tokyonight&layout=compact&langs_count=8)
 
-# A cute animal(s)
+# Something something something
 ![Image](https://github.com/macher259/macher259/blob/main/cats.jpg)

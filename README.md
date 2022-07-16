@@ -2,7 +2,7 @@
 Welcome on my Github profile.
 
 # Who am I?
-My name is Maciej. Currently, I am a 3rd year CS student at [the University of Warsaw](https://www.mimuw.edu.pl/en).
+My name is Maciej. Currently, I am a CS student at [the University of Warsaw](https://www.mimuw.edu.pl/en).
 
 I like cute animals and coding.
 

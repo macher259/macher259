@@ -9,9 +9,9 @@ I like animals, ricing my linux, functional programming and coding in general.
 # Some stats
 ![Github views](https://komarev.com/ghpvc/?username=macher259)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=macher259&show_icons=true&theme=tokyonight)]
+![Github stats](https://github-readme-stats.vercel.app/api?username=macher259)]
 
-![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=macher259&count_private=true&include_all_commits=true&theme=tokyonight&layout=compact&langs_count=8)
+![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=macher259)
 
 # Something something something
 ![Image](https://github.com/macher259/macher259/blob/main/cats.jpg)
